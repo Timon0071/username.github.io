@@ -1,0 +1,47 @@
+h1 {
+  text-align: center;
+  color: deepskyblue;
+  position: center;
+  background-color: orange;
+}
+body{
+  background-color: gainsboro;
+}
+
+table{
+  color: white;
+  border: 1px solid;
+  border-color: blue;
+  background-color: purple;
+  width: 100%;
+  text-align: start;
+  border-collapse: collapse;
+  text-wrap: wrap;
+  text-indent: initial;
+  margin: 0 auto;
+  
+  }
+  
+.code{
+  background-color: gainsboro;
+}
+tb{
+   border: 1px solid;
+   display: table-cell;
+   border-color: red;
+   width: 5%;
+   background-color: Aliceblue;
+}
+th{
+  display: table-cell;
+  border: 1px solid;
+  border-collapse: collapse;
+  width: 25%;
+}
+tr{ 
+  vertical-align: inherit;
+}
+h2{
+  text-align: center;
+  background-color: aquamarine;
+}
