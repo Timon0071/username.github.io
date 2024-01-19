@@ -1,0 +1,66 @@
+html{
+    font-size: 16px;
+    background-color: gray;
+}
+
+h1{
+font-weight: bold;
+text-align: center;
+}
+#word1{
+    text-align: center;
+font-weight: bold;
+}
+
+.beginning{
+display: flex;
+justify-content: center;
+    text-align: center;
+    font-weight: bold;
+    text-decoration: underline;
+    
+}
+
+.word2{
+    word-spacing: 5px;
+    text-align: center;
+}
+
+
+.pic{
+    display: inline-flex;
+    justify-content: space-between;
+}
+
+#pic10{
+    width: 50%;
+}
+
+h2{
+    text-align: center;
+}
+
+#pic20{
+    width: 25%; 
+}
+p{
+text-align: center;
+font-style: oblique;
+font-weight: 600;
+font-size: medium;
+}
+
+h3{
+    text-align: center;
+}
+
+#contactUs{
+    flex-wrap: wrap;
+    text-align: center;
+    
+}
+
+.footer{
+    text-align: center;
+    flex-direction: row;
+}
